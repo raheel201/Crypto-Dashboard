@@ -36,7 +36,3 @@ A **modern, interactive dashboard** built with **React, Redux Toolkit, TailwindC
 - **APIs:** CoinGecko API (crypto), Yahoo Finance API (stocks)  
 - **Persistence:** Redux + localStorage  
 
----
-
-## 📂 Project Structure
-
